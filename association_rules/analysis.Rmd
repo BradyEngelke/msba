@@ -12,8 +12,9 @@ output:
 
 ## Situation Overview 
 
-The coach of AS Roma has hired the team to derive value from of a dataset relating to matches played amongst European soccer teams from 2008 to 2016. The dataset contains detailed information for over 25,000 matches as well as information regarding the team strategies employed and the skillsets of the players on the field. The dataset under analysis can be found below:
+The coach of AS Roma has hired the team to derive value from of a dataset relating to matches played amongst European soccer teams from 2008 to 2016. The dataset contains detailed information for over 25,000 matches as well as information regarding the team strategies employed and the skillsets of the players on the field. 
 
+The dataset under analysis can be found below:
 [Link](https://www.kaggle.com/hugomathien/soccer)
 
 The purpose of this analysis is to provide the coach of AS Roma with actionable insights that will help solve the most important and pressing issues. We assume the coach strives to become the number one team in AS Roma's league and this analysis will detail actions that can be taken to accomplish just that. 
