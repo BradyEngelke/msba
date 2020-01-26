@@ -7,7 +7,7 @@ Thanks for stopping by! This is a repository of some of my favorite work from th
   - The objective was to leverage association rules to identify novel ways the coach of AS Roma (Italian Soccer Team) could refine in-game strategy or scouting practices to improve the team's performance in forthcoming seasons. 7 player attributes were found to be indicative of success; thus, the coach of AS Roma would be well served to prioritize these skills in future scouting efforts.
   
 ## clustering
-  - airline_travelers contains the application of k-Mediods clustering to identify a unique group of flyers that are susceptible to joining the airline's loyalty program. 500 customer id's were found to be ideal candidates for the airline's next targeted promotional campaign.
+  - airline_travelers contains the application of k-Mediods clustering to identify a unique group of flyers that are susceptible to joining the airline's loyalty program. 500 customer ids were found to be ideal candidates for the airline's next targeted promotional campaign.
   
   - coffee_shop_customers applied k-Means clustering to find a group of customers who would likely participate in a new product offering that would help address diminishing revenue and stabalize demand for the coffee shop throughout the day/week.
 
