@@ -2,6 +2,8 @@
 
 Thanks for stopping by! This is a repository of some of my favorite work from this past year in the Carlson School of Management's Master of Science in Business Analytics program. Below is a summarization of each folder to help navigate the repository so you can find the work that is of particular interest to you.
 
+I also am in development of a personal portfolio which can be found @ https://bradyengelke.github.io
+
 
 ## association_rules
   - The objective was to leverage association rules to identify novel ways the coach of AS Roma (Italian Soccer Team) could refine in-game strategy or scouting practices to improve the team's performance in forthcoming seasons. 7 player attributes were found to be indicative of success; thus, the coach of AS Roma would be well served to prioritize these skills in future scouting efforts.
