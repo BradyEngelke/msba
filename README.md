@@ -4,6 +4,7 @@ Thanks for stopping by! This is a repository of some of my favorite work from th
 
 I also am in development of a personal portfolio which can be found @ https://bradyengelke.github.io
 
+## econometrics
 
 ## association_rules
   - The objective was to leverage association rules to identify novel ways the coach of AS Roma (Italian Soccer Team) could refine in-game strategy or scouting practices to improve the team's performance in forthcoming seasons. 7 player attributes were found to be indicative of success; thus, the coach of AS Roma would be well served to prioritize these skills in future scouting efforts.
