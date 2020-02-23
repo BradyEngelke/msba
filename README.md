@@ -14,6 +14,8 @@ I also am in development of a personal portfolio which can be found @ https://br
 
 ## econometrics
   - digital_marketing utilized A/B Testing to determine whether or not advertisements shown to the treatment group induced a substantial effect on customer purchasing behavior. The prevalence of endogeneity within the study was explored through exploratory plots and statistical tests, and a rigorous interpretation of the logistic regression results were provided to the client.
+  
+  - SEO exploited more advanced methodologies, Difference-in-Differences & Regression Discontinuity, to discern the influence sponsored ad copies on branded keyword searches had on Google searchers. The analysis dove deep into the underlying assumptions of each of the methodologies finding that the parrallel trend between treatment & control could not be validated for Difference-in-Differences. This led to the arbitrary treatment assignment to be exploited by Regression Discontinuity, finding an $18,048 drop in weekly profits for the client when sponsored ad copies were halted on Google.  
 
 ## nlp
   - I found the use case of this project to be especially unique. I recommend downloading voice_thread.mov and watching the short video to see how my team performed Natural Language Processing on the Twitter API along with data pulled from the Google Trends API to increase Andrew Yang's chances of winning the 2020 presidential election. The technical details can be found in the jupyter notebooks.
