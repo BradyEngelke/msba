@@ -13,6 +13,8 @@ I also am in development of a personal portfolio which can be found @ https://br
   - coffee_shop_customers applied k-Means clustering to find a group of customers who would likely participate in a new product offering that would help address diminishing revenue and stabalize demand for the coffee shop throughout the day/week.
 
 ## econometrics
+  - car_accidents is an end-to-end causal analysis from problem definition & data scraping to interpretation of regression output. The analysis used Propensity Score Matching to recreate a randomized experiment and Difference-in-Differences to isolate the effect legalization of cannabis has on car accident rates within the U.S. 
+  
   - digital_marketing utilized A/B Testing to determine whether or not advertisements shown to the treatment group induced a substantial effect on customer purchasing behavior. The prevalence of endogeneity within the study was explored through exploratory plots and statistical tests, and a rigorous interpretation of the logistic regression results were provided to the client.
   
   - SEO exploited more advanced methodologies, Difference-in-Differences & Regression Discontinuity, to discern the influence sponsored ad copies on branded keyword searches had on Google searchers. The analysis dove deep into the underlying assumptions of each of the methodologies finding that the parrallel trend between treatment & control could not be validated for Difference-in-Differences. This led to the arbitrary treatment assignment to be exploited by Regression Discontinuity, finding an $18,048 drop in weekly profits for the client when sponsored ad copies were halted on Google.  
